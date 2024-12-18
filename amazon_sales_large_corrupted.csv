@@ -1,0 +1,501 @@
+Order ID,Product Name,Category,Sub-Category,Sales,Quantity,Discount,Profit
+US-2017-434667,Tables A,Furniture,Tables,554.7,7,0.1,126.79
+CA-2021-365005,Labels C,Office Supplies,Labels,24.36,3,0.4,3.37
+CA-2020-401477,Machines A,Technology,Machines,531.72,3,0.4,39.92
+IN-2015-398586,Paper C,Office Supplies,Paper,617.55,3,0.0,116.48
+IN-2018-565349,Tables D,Furniture,Tables,972.67,7,0.2,194.54
+US-2021-724218,Accessories D,Technology,Accessories,332.79,8,0.3,30.91
+IN-2021-153272,Phones B,Technology,Phones,838.79,9,0.3,173.6
+IN-2015-603394,Accessories C,Technology,Accessories,971.74,4,0.3,181.67
+CA-2021-530751,Storage C,Office Supplies,Storage,702.95,8,0.4,52.21
+IN-2017-730135,Phones D,Technology,Phones,,2,0.0,60.48
+US-2017-380402,Labels A,Office Supplies,Labels,877.93,6,0.4,46.54
+CA-2020-817568,Machines C,Technology,Machines,369.49,1,0.3,55.97
+US-2021-384567,Phones A,Technology,Phones,465.4,2,0.4,20.11
+US-2019-327624,Chairs D,Furniture,Chairs,960.5,7,0.0,159.78
+IN-2017-117146,Tables A,Furniture,Tables,962.52,3,0.0,188.34
+US-2016-731598,Furnishings A,Furniture,Furnishings,833.09,10,0.3,86.55
+US-2020-813971,Bookcases C,Furniture,Bookcases,447.57,1,0.1,94.39
+CA-2016-974205,Tables B,Furniture,Tables,213.0,10,0.3,26.79
+IN-2016-241339,Paper A,Office Supplies,Paper,152.39,1,0.2,7.17
+CA-2019-743294,Tables B,Furniture,Tables,347.6,8,0.1,72.24
+CA-2017-882571,Machines B,Technology,Machines,938.94,9,0.1,201.35
+CA-2015-207967,Accessories C,Technology,Accessories,12.92,4,0.4,0.5
+IN-2018-694947,Binders B,Office Supplies,Binders,736.03,6,0.3,98.1
+US-2015-678015,Phones A,Technology,Phones,768.38,5,0.3,158.3
+CA-2015-480279,Phones B,Technology,Phones,215.06,10,0.3,19.43
+CA-2021-593117,Labels C,Office Supplies,Labels,865.67,7,0.2,108.21
+US-2017-733134,Accessories C,Technology,Accessories,784.17,1,0.4,67.46
+IN-2017-927849,Phones B,,Phones,583.5,3,0.1,107.39
+IN-2017-376520,Paper A,Office Supplies,Paper,523.81,1,0.3,56.93
+US-2019-821907,Chairs D,,Chairs,264.41,10,0.4,42.99
+CA-2020-883765,Paper D,Office Supplies,Paper,,10,0.1,218.2
+CA-2020-917143,Bookcases C,Furniture,Bookcases,582.11,5,0.0,133.4
+CA-2020-267720,Storage D,Office Supplies,Storage,974.26,9,0.2,133.1
+US-2015-648363,Copiers D,Technology,Copiers,757.67,4,0.2,84.82
+CA-2021-532664,Paper D,Office Supplies,Paper,128.48,7,0.2,18.07
+IN-2020-754554,Copiers D,Technology,Copiers,255.24,9,0.4,38.9
+CA-2015-636610,Bookcases D,Furniture,Bookcases,313.69,1,0.2,67.41
+IN-2019-362684,Copiers C,Technology,Copiers,73.43,7,0.2,12.93
+CA-2017-606146,Binders C,Office Supplies,Binders,713.15,8,0.3,72.69
+IN-2015-765489,Phones A,Technology,Phones,55.22,1,0.3,9.0
+IN-2015-566339,Phones C,Technology,Phones,843.52,10,0.3,60.52
+US-2019-347077,Chairs D,Furniture,Chairs,172.81,9,0.1,16.73
+IN-2021-541454,Furnishings A,Technlogy,Furnishings,72.38,2,0.3,8.75
+IN-2019-794499,Copiers D,Technology,Copiers,980.14,1,0.1,122.35
+IN-2020-310436,Labels B,Office Supplies,Labels,764.71,10,0.0,191.02
+US-2016-704355,Phones A,Technology,Phones,861.12,2,0.1,220.56
+CA-2021-105760,Chairs D,Furniture,Chairs,589.0,7,0.3,52.8
+US-2020-785350,Tables D,,Tables,835.65,5,0.4,28.06
+US-2020-206384,Machines D,Technology,Machines,935.84,1,0.0,74.3
+CA-2018-244991,Copiers B,Technology,Copiers,533.41,10,0.4,30.11
+US-2017-153760,Storage D,Office Supplies,Storage,712.03,6,0.0,141.45
+IN-2020-499747,Copiers C,,Copiers,400.03,2,0.1,25.16
+CA-2017-880395,Labels A,Office Supplies,Labels,969.07,5,0.0,119.68
+US-2019-662065,Binders C,Office Supplies,Binders,752.69,10,0.4,107.34
+US-2018-443776,Machines D,Technology,Machines,950.87,5,0.3,184.26
+CA-2015-848070,Accessories B,Technology,Accessories,973.05,1,0.3,151.21
+CA-2020-606228,Tables A,Furniture,Tables,615.58,8,0.2,58.03
+CA-2015-608272,Tables B,Furniture,Tables,73.86,5,0.4,11.69
+US-2020-827355,Bookcases D,Furniture,Bookcases,672.04,6,0.4,104.45
+US-2017-787362,Copiers C,Technology,Copiers,199.32,5,0.1,52.59
+IN-2019-637905,Binders A,Office Supplies,Binders,596.77,8,0.4,63.58
+CA-2017-494910,Storage D,Office Supplies,Storage,495.05,10,0.4,47.04
+IN-2018-117045,Tables C,Furniture,Tables,262.43,3,0.4,24.67
+CA-2018-722746,Paper A,Office Supplies,Paper,969.66,1,0.0,123.18
+CA-2016-197538,Phones D,Technology,Phones,69.05,5,0.4,6.48
+US-2017-864255,Storage D,Office Supplies,Storage,744.19,6,0.3,153.74
+US-2021-751662,Copiers A,Technology,Copiers,43.02,8,0.2,
+US-2015-160570,Chairs B,Furniture,Chairs,406.25,10,0.0,
+IN-2019-895815,Paper B,Office Supplies,Paper,,2,0.0,33.94
+CA-2016-662510,Phones A,Technology,Phones,387.72,3,0.0,25.95
+IN-2019-570892,Labels A,Office Supplies,Labels,816.46,9,0.0,215.26
+IN-2015-505236,Furnishings D,Furniture,Furnishings,12.0,4,0.0,2.51
+CA-2020-406916,Accessories D,Technology,Accessories,627.74,3,0.3,95.36
+CA-2019-761891,Binders B,Office Supplies,Binders,,3,0.0,119.86
+US-2020-538382,Chairs B,Furniture,Chairs,722.16,10,0.0,160.36
+US-2020-159353,Paper A,Office Supplies,Paper,632.53,5,0.1,39.14
+IN-2016-585494,Chairs A,,Chairs,,6,0.4,
+CA-2015-911694,Paper C,Office Supplies,Paper,134.94,3,0.0,36.32
+US-2020-256514,Accessories A,,Accessories,938.64,8,0.2,50.34
+US-2020-298181,Paper A,Office Supplies,Paper,412.14,2,0.2,27.52
+CA-2020-701565,Bookcases B,Furniture,Bookcases,660.62,2,0.0,105.61
+CA-2020-717568,Storage A,Office Supplies,Storage,859.71,1,0.2,103.63
+US-2015-629016,Accessories B,Technlogy,Accessories,991.26,6,0.0,248.14
+IN-2016-331173,Chairs C,Furniture,Chairs,727.26,4,0.2,133.7
+IN-2015-843008,Storage C,Office Supplies,Storage,,2,0.0,60.37
+CA-2016-917253,Accessories B,Technology,Accessories,909.76,4,0.4,110.88
+IN-2021-273187,Bookcases D,Furniture,Bookcases,697.74,2,0.3,82.98
+CA-2021-290009,Binders C,Office Supplies,Binders,105.02,9,0.3,18.88
+CA-2018-843154,Chairs D,Furniture,Chairs,732.18,3,0.3,94.82
+IN-2020-861022,Storage B,Office Supplies,Storage,51.83,4,0.1,3.31
+IN-2021-788150,Copiers C,,Copiers,248.67,2,0.4,31.24
+IN-2016-261076,Copiers D,Technology,Copiers,394.92,7,0.1,97.43
+IN-2018-718304,Accessories A,Technology,Accessories,707.12,2,0.0,84.32
+IN-2018-546476,Tables C,Furniture,Tables,24.45,5,0.2,3.47
+IN-2015-903829,Phones B,Technology,Phones,801.17,7,0.3,93.97
+US-2015-463172,Tables A,Furniture,Tables,933.82,8,0.0,258.74
+CA-2017-624786,Machines A,Technology,Machines,913.01,4,0.0,210.67
+IN-2016-303655,Labels B,Office Supplies,Labels,847.26,5,0.0,105.13
+CA-2021-874661,Furnishings A,Furniture,Furnishings,216.33,10,0.3,14.5
+US-2021-364454,Binders A,Office Supplies,Binders,225.41,8,0.1,32.19
+CA-2016-459947,Chairs B,Furniture,Chairs,31.3,1,0.0,7.27
+US-2019-683125,Storage B,,Storage,,6,0.2,116.29
+CA-2019-740386,Bookcases B,Furniture,Bookcases,899.7,10,0.3,73.23
+IN-2018-391959,Binders A,Office Supplies,Binders,550.86,3,0.3,100.78
+IN-2017-608646,Binders A,Office Supplies,Binders,,6,0.1,30.79
+US-2017-457103,Binders D,Office Supplies,Binders,495.96,4,0.4,16.4
+CA-2018-229041,Labels C,Office Supplies,Labels,935.87,1,0.1,81.36
+CA-2017-990021,Furnishings A,Furniture,Furnishings,459.21,3,0.3,87.9
+IN-2016-792743,Accessories D,Technology,Accessories,541.4,1,0.3,87.1
+US-2018-279420,Machines C,Technology,Machines,81.65,6,0.4,9.24
+US-2017-129669,Copiers A,Technology,Copiers,627.06,1,0.2,139.18
+CA-2015-847260,Storage D,Office Supplies,Storage,344.64,2,0.1,76.14
+IN-2020-951180,Storage D,Office Supplies,Storage,654.53,4,0.4,103.89
+IN-2016-949110,Accessories A,Technology,Accessories,436.02,9,0.0,28.83
+CA-2021-357292,Furnishings C,Furniture,Furnishings,330.59,1,0.0,86.96
+US-2020-760336,Binders C,,Binders,808.3,8,0.0,197.63
+IN-2015-735248,Furnishings D,Furniture,Furnishings,361.42,2,0.3,37.72
+CA-2021-228538,Binders C,Office Supplies,Binders,756.19,7,0.3,124.6
+CA-2019-884831,Storage C,Office Supplies,Storage,521.69,1,0.4,57.53
+CA-2016-667083,Furnishings D,Furniture,Furnishings,261.01,8,0.3,37.83
+IN-2021-723231,Copiers C,Technology,Copiers,778.81,9,0.4,124.49
+US-2019-995058,Phones D,Technology,Phones,836.9,8,0.1,170.3
+IN-2019-645373,Storage D,Office Supplies,Storage,581.66,3,0.1,51.18
+US-2020-417680,Phones A,Technology,Phones,781.35,3,0.3,
+IN-2016-713209,Furnishings B,Furniture,Furnishings,,1,0.3,
+US-2015-462686,Bookcases C,Furniture,Bookcases,872.33,6,0.2,79.67
+US-2018-706880,Phones D,Technology,Phones,980.43,9,0.4,134.44
+US-2020-581478,Storage C,Office Supplies,Storage,421.96,8,0.1,53.83
+CA-2015-371929,Chairs B,Furniture,Chairs,241.48,10,0.0,32.11
+IN-2021-461640,Chairs C,Furniture,Chairs,269.63,7,0.3,15.15
+IN-2021-983211,Paper D,Office Supplies,Paper,969.3,1,0.4,
+CA-2015-453572,Binders B,Office Supplies,Binders,417.72,10,0.1,38.03
+IN-2016-716268,Tables B,Furniture,Tables,283.23,2,0.0,67.87
+CA-2020-365842,Chairs C,Furniture,Chairs,754.52,5,0.1,172.67
+IN-2015-221057,Bookcases D,Furniture,Bookcases,874.36,10,0.3,158.86
+CA-2018-743078,Bookcases B,Furniture,Bookcases,696.31,7,0.4,71.54
+CA-2015-840647,Phones A,Technology,Phones,323.91,3,0.2,17.33
+CA-2016-600414,Storage D,Office Supplies,Storage,228.51,10,0.4,23.21
+US-2015-975489,Copiers B,Technology,Copiers,488.45,2,0.0,132.0
+CA-2019-725187,Tables D,Furniture,Tables,172.95,6,0.4,24.83
+IN-2019-105288,Accessories B,Technology,Accessories,161.59,6,0.0,9.15
+US-2020-368040,Bookcases D,Furniture,Bookcases,925.41,5,0.0,77.58
+CA-2015-694717,Copiers D,Technology,Copiers,508.86,7,0.4,62.49
+IN-2015-353940,Furnishings A,Furniture,Furnishings,70.41,4,0.3,9.78
+US-2015-524513,Binders A,Office Supplies,Binders,222.54,3,0.0,28.23
+CA-2019-120276,Storage D,Office Supplies,Storage,53.08,5,0.2,6.75
+IN-2020-689904,Labels A,Office Supplies,Labels,88.84,2,0.1,9.01
+IN-2021-549820,Binders B,Office Supplies,Binders,879.9,9,0.2,134.7
+CA-2021-837952,Labels C,Office Supplies,Labels,670.93,1,0.4,101.35
+IN-2021-645841,Chairs A,Furniture,Chairs,643.32,8,0.2,132.2
+IN-2017-755048,Binders A,Office Supplies,Binders,371.76,1,0.2,66.75
+IN-2021-636830,Phones A,Technology,Phones,684.02,8,0.1,87.36
+IN-2018-873255,Bookcases B,Furniture,Bookcases,886.37,9,0.1,143.79
+IN-2016-515957,Binders B,Office Supplies,Binders,851.38,7,0.4,37.62
+IN-2016-620917,Chairs B,Furniture,Chairs,39.24,9,0.2,
+CA-2019-764652,Accessories D,Technology,Accessories,,6,0.4,53.9
+US-2020-129405,Chairs B,Furniture,Chairs,788.62,8,0.4,111.3
+IN-2018-344109,Furnishings C,Furniture,Furnishings,786.18,1,0.0,205.67
+IN-2019-932155,Paper C,Office Supplies,Paper,689.9,5,0.0,73.01
+CA-2021-292481,Binders D,Office Supplies,Binders,732.5,1,0.1,160.8
+IN-2015-111826,Machines A,Technology,Machines,38.64,1,0.1,7.34
+CA-2021-663122,Machines C,Technology,Machines,112.32,9,0.2,10.5
+IN-2021-565453,Accessories B,Technology,Accessories,749.34,10,0.2,72.92
+US-2020-223895,Bookcases B,Furniture,Bookcases,754.21,10,0.4,123.92
+IN-2016-816060,Machines C,Technology,Machines,106.76,8,0.3,8.95
+CA-2021-399078,Chairs D,Furniture,Chairs,123.23,1,0.4,21.44
+IN-2020-704739,Paper D,Office Supplies,Paper,566.17,8,0.1,47.8
+CA-2018-837972,Phones D,Technology,Phones,445.58,3,0.3,21.13
+IN-2020-334567,Storage D,Office Supplies,Storage,395.51,1,0.3,51.66
+CA-2017-756256,Paper C,Office Supplies,Paper,213.92,2,0.3,11.25
+US-2021-345708,Labels C,Office Supplies,Labels,471.32,3,0.4,46.55
+US-2021-402488,Tables C,Furniture,Tables,950.39,4,0.0,114.98
+CA-2018-341031,Chairs D,Furniture,Chairs,717.1,2,0.1,162.18
+CA-2021-531893,Binders C,Office Supplies,Binders,899.36,1,0.0,218.42
+IN-2015-525169,Paper C,Office Supplies,Paper,965.6,10,0.3,
+CA-2020-942530,Accessories C,Technology,Accessories,223.1,10,0.0,28.04
+US-2015-391974,Machines A,Technology,Machines,986.05,6,0.4,112.49
+IN-2016-332798,Binders D,Office Supplies,Binders,89.91,5,0.3,4.47
+US-2015-500904,Tables B,Furniture,Tables,385.31,9,0.4,28.23
+US-2017-743458,Storage B,Office Supplies,Storage,21.24,4,0.0,
+US-2015-652467,Tables C,Furniture,Tables,986.31,7,0.0,138.25
+US-2019-828165,Accessories D,Technlogy,Accessories,276.65,3,0.2,24.51
+US-2017-587684,Phones D,,Phones,571.65,3,0.0,37.67
+IN-2021-618580,Bookcases B,Furniture,Bookcases,989.35,5,0.0,97.93
+CA-2019-499159,Machines B,,Machines,826.61,8,0.3,36.22
+US-2017-930155,Copiers D,Technology,Copiers,427.44,5,0.4,38.56
+US-2018-636804,Chairs B,Furniture,Chairs,149.58,4,0.0,24.8
+IN-2016-927514,Copiers D,,Copiers,925.52,3,0.1,228.86
+CA-2020-456363,Paper A,Office Supplies,Paper,803.26,5,0.0,
+US-2021-703070,Furnishings D,Furniture,Furnishings,884.15,6,0.0,199.72
+US-2021-999522,Paper C,Office Supplies,Paper,533.27,4,0.0,33.6
+CA-2015-812864,Chairs C,Furniture,Chairs,607.55,6,0.0,122.88
+CA-2017-452445,Bookcases D,Furniture,Bookcases,700.67,1,0.1,35.17
+IN-2018-807686,Tables C,Furniture,Tables,52.94,2,0.1,6.78
+IN-2018-120028,Accessories C,Technology,Accessories,,4,0.3,
+CA-2016-502861,Bookcases A,Furniture,Bookcases,825.66,2,0.1,134.45
+US-2020-566925,Accessories B,Technology,Accessories,370.37,5,0.0,91.59
+IN-2019-256595,Furnishings B,Furniture,Furnishings,189.44,1,0.0,48.45
+US-2016-197730,Labels A,Office Supplies,Labels,168.83,3,0.2,31.82
+US-2015-857021,Phones D,Technology,Phones,599.56,3,0.0,128.67
+US-2019-905742,Paper A,Office Supplies,Paper,56.3,4,0.1,5.04
+CA-2016-707656,Accessories A,Technology,Accessories,354.1,5,0.1,87.26
+CA-2020-693878,Bookcases A,Furniture,Bookcases,372.39,3,0.2,49.81
+IN-2019-670010,Paper C,Office Supplies,Paper,792.78,7,0.4,40.67
+US-2018-759998,Tables C,Furniture,Tables,78.07,3,0.4,13.64
+IN-2020-875103,Furnishings A,Furniture,Furnishings,645.18,10,0.3,63.7
+US-2019-401688,Storage B,Office Supplies,Storage,814.02,10,0.3,76.55
+US-2016-861378,Accessories A,Technology,Accessories,617.02,3,0.1,144.81
+IN-2018-736925,Accessories C,,Accessories,202.2,4,0.1,39.75
+US-2020-976028,Chairs C,Furniture,Chairs,710.11,2,0.0,142.46
+IN-2016-836422,Accessories A,Technology,Accessories,341.79,10,0.3,69.5
+CA-2018-728335,Tables C,Furniture,Tables,,5,0.4,6.46
+IN-2018-246989,Machines C,Technlogy,Machines,723.26,8,0.4,116.49
+US-2020-519127,Machines A,Technology,Machines,90.11,9,0.3,17.59
+US-2017-416265,Labels B,Office Supplies,Labels,544.36,4,0.2,86.68
+CA-2016-253842,Machines A,Technology,Machines,636.32,10,0.4,24.12
+US-2021-631163,Labels C,Office Supplies,Labels,59.37,6,0.3,12.2
+IN-2019-641416,Chairs A,Furniture,Chairs,534.92,5,0.1,42.61
+IN-2018-393907,Binders A,,Binders,14.83,3,0.1,1.82
+US-2015-674221,Phones C,Technology,Phones,571.72,4,0.3,100.26
+US-2021-172108,Furnishings C,Furniture,Furnishings,196.37,5,0.0,44.99
+IN-2017-524670,Accessories D,Technology,Accessories,991.96,6,0.1,154.99
+IN-2021-222341,Paper C,Office Supplies,Paper,384.74,5,0.2,24.53
+US-2016-842127,Tables B,Furniture,Tables,597.37,7,0.3,87.05
+IN-2017-805724,Paper B,Office Supplies,Paper,428.46,4,0.0,29.78
+CA-2016-356137,Copiers A,Technology,Copiers,92.48,1,0.1,15.98
+CA-2021-793203,Binders A,Office Supplies,Binders,931.61,5,0.1,100.66
+IN-2015-408270,Binders C,Office Supplies,Binders,424.54,4,0.3,18.73
+US-2019-949225,Storage B,Office Supplies,Storage,486.0,4,0.1,32.2
+US-2019-438684,Storage C,Office Supplies,Storage,970.91,10,0.3,68.93
+US-2017-977821,Storage B,Office Supplies,Storage,844.42,6,0.4,51.58
+US-2019-810714,Tables B,Furniture,Tables,18.57,10,0.3,0.89
+CA-2019-296365,Storage B,Office Supplies,Storage,31.08,3,0.3,4.24
+US-2020-822146,Bookcases C,Furniture,Bookcases,790.73,7,0.4,66.52
+CA-2016-353989,Labels B,Office Supplies,Labels,144.68,7,0.0,22.45
+US-2020-134495,Paper D,Office Supplies,Paper,823.76,6,0.2,76.6
+CA-2017-647411,Machines D,Technology,Machines,841.57,10,0.0,135.72
+US-2020-323809,Machines B,Technology,Machines,209.14,5,0.4,
+US-2015-553953,Storage A,,Storage,332.53,2,0.4,44.08
+CA-2020-528060,Chairs A,Furniture,Chairs,186.4,2,0.2,37.9
+CA-2019-340703,Copiers D,Technology,Copiers,551.4,2,0.0,120.66
+US-2020-763055,Phones B,Technology,Phones,352.69,10,0.0,34.23
+CA-2021-908122,Labels B,Office Supplies,Labels,339.92,3,0.0,21.5
+IN-2021-510732,Furnishings D,Furniture,Furnishings,181.99,5,0.2,16.79
+CA-2020-562229,Accessories D,Technology,Accessories,448.61,3,0.2,24.04
+IN-2021-875407,Machines D,Technology,Machines,391.05,2,0.1,20.53
+CA-2018-525225,Machines D,Technology,Machines,465.94,10,0.1,96.01
+IN-2019-700904,Bookcases D,,Bookcases,449.96,1,0.4,16.92
+CA-2017-328736,Furnishings B,Furniture,Furnishings,293.52,6,0.4,50.16
+IN-2015-348204,Machines C,Technology,Machines,814.67,4,0.2,173.54
+CA-2016-559606,Copiers D,Technology,Copiers,201.75,3,0.4,32.66
+IN-2016-498942,Copiers D,Technology,Copiers,635.22,2,0.2,59.0
+US-2017-173333,Copiers D,Technology,Copiers,583.42,10,0.4,80.76
+CA-2018-277685,Copiers B,Technology,Copiers,831.93,2,0.4,54.22
+CA-2021-221282,Tables B,Furniture,Tables,861.22,2,0.0,55.51
+US-2015-992335,Tables B,Furniture,Tables,189.39,10,0.1,18.5
+CA-2017-830061,Chairs A,Furniture,Chairs,290.8,8,0.1,37.19
+IN-2019-579274,Tables A,,Tables,807.89,3,0.0,157.42
+IN-2016-804119,Storage B,Office Supplies,Storage,141.48,7,0.3,24.0
+US-2015-719293,Storage B,,Storage,876.42,1,0.1,133.78
+CA-2018-315031,Furnishings D,Furniture,Furnishings,795.1,10,0.4,108.31
+CA-2016-334040,Machines D,Technology,Machines,787.61,2,0.1,51.74
+CA-2020-285352,Accessories C,Technology,Accessories,948.96,1,0.3,130.21
+IN-2017-572540,Copiers D,Technology,Copiers,43.36,2,0.1,11.35
+CA-2018-974004,Phones B,Technology,Phones,989.66,5,0.1,95.13
+US-2016-894089,Accessories A,Technology,Accessories,277.08,8,0.1,74.69
+CA-2020-407889,Labels B,Office Supplies,Labels,888.95,1,0.1,167.17
+IN-2018-290263,Phones B,,Phones,574.19,7,0.4,21.91
+IN-2021-474070,Accessories B,Technology,Accessories,442.9,1,0.1,29.37
+IN-2016-489865,Storage B,Office Supplies,Storage,356.84,4,0.1,16.94
+IN-2021-994756,Bookcases D,Furniture,Bookcases,758.14,2,0.1,57.76
+IN-2017-682792,Bookcases D,Furniture,Bookcases,128.05,1,0.1,26.78
+US-2016-933156,Phones A,Technology,Phones,726.37,6,0.0,93.83
+IN-2017-353421,Binders B,,Binders,590.15,9,0.3,37.73
+US-2019-544812,Accessories A,Technology,Accessories,685.76,8,0.2,125.36
+IN-2017-467156,Phones C,,Phones,248.56,7,0.3,13.31
+CA-2015-296532,Tables D,Furniture,Tables,343.47,2,0.2,56.21
+IN-2020-535938,Phones B,Technology,Phones,471.54,8,0.0,51.23
+CA-2017-830783,Accessories D,Technology,Accessories,22.41,6,0.1,5.9
+US-2020-933570,Accessories A,Technology,Accessories,953.11,1,0.2,119.62
+IN-2016-248570,Bookcases D,Furniture,Bookcases,,10,0.4,77.02
+US-2016-554474,Tables D,Furniture,Tables,366.98,10,0.2,76.14
+IN-2016-456677,Storage D,Office Supplies,Storage,310.92,10,0.0,42.98
+US-2021-301509,Furnishings A,Furniture,Furnishings,417.55,4,0.1,50.52
+CA-2021-168211,Machines A,Technology,Machines,193.16,5,0.4,10.99
+US-2015-492891,Machines B,Technology,Machines,786.57,7,0.1,201.89
+US-2018-942483,Accessories A,Technology,Accessories,296.22,7,0.0,19.44
+IN-2020-209584,Bookcases B,Furniture,Bookcases,596.72,7,0.0,111.44
+IN-2020-962250,Phones C,Technology,Phones,848.15,5,0.3,157.56
+CA-2015-761838,Labels C,Office Supplies,Labels,190.08,7,0.0,9.73
+US-2016-406178,Furnishings B,Furniture,Furnishings,883.76,8,0.3,75.09
+IN-2018-479072,Paper D,Office Supplies,Paper,225.28,10,0.1,27.28
+US-2021-225821,Accessories A,Technology,Accessories,299.87,5,0.2,68.86
+CA-2021-235306,Phones B,Technology,Phones,332.7,10,0.1,57.54
+CA-2017-575783,Labels B,Office Supplies,Labels,688.46,8,0.4,40.4
+CA-2017-942141,Phones B,Technology,Phones,498.89,9,0.2,93.03
+IN-2021-124202,Labels A,Office Supplies,Labels,317.47,10,0.4,
+US-2016-743522,Tables D,Furniture,Tables,613.58,6,0.3,60.21
+IN-2021-900922,Copiers C,Technlogy,Copiers,682.33,7,0.0,53.0
+CA-2017-862189,Paper C,Office Supplies,Paper,507.37,4,0.4,79.05
+US-2020-512974,Tables C,Furniture,Tables,300.88,7,0.0,68.31
+CA-2015-897893,Paper B,Office Supplies,Paper,379.96,2,0.4,45.73
+US-2016-189531,Binders A,Office Supplies,Binders,62.53,7,0.3,11.72
+IN-2017-376259,Furnishings B,Furniture,Furnishings,898.44,9,0.3,54.99
+IN-2015-777579,Copiers C,Technology,Copiers,798.46,8,0.2,91.23
+CA-2017-484059,Chairs D,Furniture,Chairs,20.61,2,0.2,1.19
+US-2018-474068,Binders A,Office Supplies,Binders,246.21,7,0.3,
+IN-2017-624086,Chairs A,Furniture,Chairs,662.57,4,0.0,190.12
+IN-2015-639591,Tables C,Furniture,Tables,309.36,1,0.0,20.62
+CA-2017-421740,Accessories C,Technology,Accessories,587.37,3,0.0,165.61
+CA-2019-154286,Tables C,Furniture,Tables,142.51,3,0.4,20.59
+US-2020-253247,Copiers B,Technology,Copiers,90.31,5,0.0,7.72
+CA-2016-444276,Tables A,Furniture,Tables,460.25,8,0.0,
+IN-2021-856466,Accessories D,Technology,Accessories,591.09,7,0.2,29.52
+IN-2017-408456,Phones D,Technlogy,Phones,977.42,6,0.2,111.15
+US-2020-378144,Phones D,Technology,Phones,188.84,7,0.4,31.21
+CA-2018-563275,Tables A,Furniture,Tables,,1,0.4,41.6
+CA-2017-950142,Chairs D,Furniture,Chairs,90.93,1,0.1,17.95
+IN-2021-880082,Labels A,Office Supplies,Labels,929.48,3,0.0,160.7
+US-2017-109472,Copiers B,Technology,Copiers,213.27,2,0.3,
+CA-2021-627788,Furnishings A,Furniture,Furnishings,300.24,4,0.1,68.95
+IN-2016-198228,Tables A,Furniture,Tables,259.61,3,0.2,29.8
+US-2018-260450,Chairs C,Furniture,Chairs,809.58,7,0.1,179.86
+US-2021-604512,Storage D,Office Supplies,Storage,679.6,5,0.3,136.02
+US-2016-825635,Tables A,Technlogy,Tables,906.08,7,0.0,153.84
+IN-2015-149385,Machines A,Technology,Machines,426.87,5,0.1,35.75
+US-2017-853882,Machines A,Technology,Machines,925.73,3,0.3,73.79
+US-2016-506641,Phones C,Technology,Phones,662.28,10,0.3,33.32
+CA-2015-788233,Phones C,Technology,Phones,863.45,7,0.3,112.08
+CA-2020-599131,Copiers C,Technology,Copiers,485.9,1,0.4,31.2
+CA-2015-500628,Accessories A,Technology,Accessories,756.99,9,0.2,106.72
+IN-2019-362510,Tables B,Furniture,Tables,72.38,2,0.2,7.49
+US-2019-604360,Labels A,Office Supplies,Labels,811.18,9,0.0,203.99
+CA-2015-530357,Tables A,Furniture,Tables,369.26,5,0.2,67.65
+IN-2018-623758,Phones B,Technology,Phones,,5,0.3,32.0
+CA-2020-262683,Storage A,Office Supplies,Storage,335.77,10,0.2,62.08
+US-2020-195605,Furnishings D,Furniture,Furnishings,977.93,2,0.1,80.45
+IN-2020-201916,Binders B,Office Supplies,Binders,572.36,1,0.4,55.23
+IN-2019-797712,Paper A,Office Supplies,Paper,925.76,2,0.4,130.42
+US-2020-889615,Storage B,Office Supplies,Storage,952.32,1,0.2,95.1
+IN-2015-532566,Bookcases D,Furniture,Bookcases,647.36,7,0.3,127.7
+IN-2019-232973,Tables B,Furniture,Tables,534.23,8,0.4,47.81
+CA-2018-795450,Storage D,Office Supplies,Storage,911.15,6,0.4,82.68
+CA-2018-290394,Machines D,Technology,Machines,783.5,4,0.1,131.16
+US-2017-596781,Accessories C,Technology,Accessories,839.19,5,0.3,115.36
+CA-2017-980811,Tables C,Furniture,Tables,772.03,7,0.3,
+IN-2018-120871,Labels C,Office Supplies,Labels,464.29,8,0.1,64.66
+US-2018-890251,Copiers B,Technology,Copiers,629.32,10,0.3,89.17
+IN-2018-723978,Machines B,Technology,Machines,615.89,8,0.1,165.29
+CA-2017-343084,Furnishings A,Furniture,Furnishings,68.18,5,0.4,11.98
+CA-2020-406717,Phones A,Technology,Phones,79.48,10,0.0,5.61
+IN-2019-475105,Phones B,,Phones,29.53,9,0.2,2.24
+CA-2015-930003,Phones D,Technology,Phones,205.43,7,0.2,26.67
+US-2015-883401,Bookcases D,Furniture,Bookcases,961.25,3,0.2,182.3
+US-2017-815315,Machines B,Technology,Machines,265.43,6,0.3,44.99
+IN-2021-719839,Paper C,Office Supplies,Paper,843.83,1,0.3,
+US-2021-542210,Binders C,Office Supplies,Binders,,5,0.2,89.9
+IN-2021-447671,Phones B,Technology,Phones,312.04,2,0.1,
+US-2018-634932,Phones C,Technology,Phones,216.64,8,0.2,16.02
+CA-2018-575723,Labels B,Office Supplies,Labels,248.2,5,0.1,41.72
+US-2015-177159,Tables D,Furniture,Tables,863.23,9,0.3,124.74
+IN-2016-190722,Chairs A,Furniture,Chairs,,5,0.4,
+US-2018-545376,Accessories A,Technology,Accessories,682.27,1,0.2,54.27
+IN-2021-524467,Furnishings A,Furniture,Furnishings,461.77,2,0.3,96.96
+IN-2015-731898,Chairs A,Furniture,Chairs,252.68,7,0.1,14.13
+US-2018-172428,Copiers A,Technology,Copiers,522.05,10,0.3,20.41
+CA-2016-392545,Labels C,,Labels,248.5,9,0.4,16.05
+IN-2020-754475,Accessories C,Technology,Accessories,373.7,3,0.1,25.52
+US-2016-920850,Copiers B,Technology,Copiers,85.16,8,0.0,5.79
+US-2018-616662,Furnishings D,Furniture,Furnishings,476.62,7,0.1,77.62
+CA-2021-881752,Labels D,Office Supplies,Labels,253.29,4,0.1,62.94
+US-2017-843389,Bookcases B,Furniture,Bookcases,,4,0.0,244.35
+CA-2019-817152,Labels A,Office Supplies,Labels,857.53,6,0.4,119.03
+IN-2019-351376,Binders D,Office Supplies,Binders,319.95,10,0.1,29.44
+IN-2018-719835,Copiers B,Technology,Copiers,,1,0.4,38.94
+IN-2019-681598,Chairs C,Furniture,Chairs,95.28,9,0.3,9.03
+IN-2017-305037,Chairs C,Furniture,Chairs,458.69,3,0.4,22.73
+US-2017-877546,Labels A,Office Supplies,Labels,,3,0.0,44.77
+CA-2021-867676,Labels A,Office Supplies,Labels,785.19,3,0.4,109.32
+CA-2015-227857,Labels B,Office Supplies,Labels,411.92,1,0.2,49.72
+IN-2018-100200,Machines B,Technology,Machines,270.33,6,0.3,49.08
+US-2021-300826,Labels B,Office Supplies,Labels,7.83,5,0.0,1.75
+US-2015-420427,Phones A,Technology,Phones,339.61,1,0.4,20.19
+IN-2020-490608,Chairs C,Furniture,Chairs,364.46,7,0.0,31.51
+CA-2016-874414,Tables A,Furniture,Tables,628.57,1,0.0,183.83
+CA-2018-588092,Chairs B,Furniture,Chairs,721.8,5,0.4,77.49
+IN-2021-248428,Copiers D,Technology,Copiers,315.95,3,0.0,23.61
+IN-2015-300572,Furnishings D,Furniture,Furnishings,754.45,3,0.2,40.11
+US-2017-841661,Binders A,Office Supplies,Binders,,4,0.1,71.15
+CA-2020-236671,Bookcases A,Furniture,Bookcases,17.91,5,0.3,2.35
+US-2018-513877,Binders B,Office Supplies,Binders,943.88,3,0.4,147.14
+US-2015-703687,Storage B,Office Supplies,Storage,474.76,5,0.3,19.35
+US-2017-928396,Paper C,Office Supplies,Paper,56.94,9,0.4,9.52
+US-2017-214257,Storage B,Office Supplies,Storage,594.14,4,0.4,74.92
+US-2015-823827,Paper A,Office Supplies,Paper,,3,0.1,
+IN-2017-774657,Copiers B,Technology,Copiers,638.0,8,0.4,66.02
+IN-2017-791837,Furnishings A,Furniture,Furnishings,53.5,2,0.2,5.93
+US-2018-367593,Chairs C,Furniture,Chairs,470.69,2,0.0,107.49
+CA-2015-454607,Tables D,Furniture,Tables,791.52,8,0.3,39.77
+US-2017-691327,Storage A,Office Supplies,Storage,430.0,5,0.2,51.16
+US-2020-294084,Binders C,Technlogy,Binders,396.01,4,0.1,97.43
+CA-2018-235866,Bookcases B,Furniture,Bookcases,774.46,3,0.3,94.54
+CA-2021-601425,Bookcases C,Furniture,Bookcases,791.79,5,0.0,169.56
+CA-2016-448564,Machines B,Technology,Machines,667.72,3,0.4,30.83
+US-2016-727279,Tables B,Furniture,Tables,105.78,7,0.2,5.3
+IN-2020-593078,Labels D,Office Supplies,Labels,319.84,1,0.0,63.34
+CA-2016-953830,Binders D,Office Supplies,Binders,,4,0.0,54.91
+IN-2016-784370,Accessories A,Technology,Accessories,51.63,8,0.3,5.33
+US-2018-690155,Chairs B,Furniture,Chairs,,8,0.2,72.45
+US-2018-796198,Storage D,Office Supplies,Storage,563.25,3,0.1,47.98
+CA-2019-877537,Machines B,Technology,Machines,294.03,4,0.0,47.3
+IN-2019-540296,Furnishings A,Furniture,Furnishings,84.64,2,0.4,
+IN-2019-977934,Accessories D,Technology,Accessories,612.18,2,0.3,85.11
+IN-2017-525289,Binders C,Office Supplies,Binders,488.97,1,0.3,82.56
+CA-2017-935058,Chairs B,Furniture,Chairs,709.7,10,0.1,89.46
+IN-2020-463078,Furnishings D,Furniture,Furnishings,825.87,6,0.3,118.88
+CA-2016-543576,Machines C,Technology,Machines,185.56,2,0.4,21.69
+IN-2015-773949,Binders C,Office Supplies,Binders,352.75,10,0.3,25.94
+CA-2018-814242,Bookcases B,Furniture,Bookcases,47.87,2,0.3,4.8
+IN-2017-944101,Furnishings C,Furniture,Furnishings,214.46,6,0.1,24.42
+US-2015-832153,Furnishings D,Furniture,Furnishings,307.0,10,0.1,27.77
+IN-2019-180778,Furnishings A,Technlogy,Furnishings,888.28,8,0.1,147.75
+CA-2016-788622,Tables D,Furniture,Tables,252.91,6,0.0,15.15
+CA-2018-909863,Furnishings D,Furniture,Furnishings,864.2,8,0.2,195.87
+CA-2018-257403,Chairs B,Furniture,Chairs,474.22,8,0.4,17.55
+US-2017-424178,Copiers D,Technology,Copiers,413.64,5,0.3,64.69
+CA-2021-804500,Furnishings B,Furniture,Furnishings,515.72,5,0.1,62.5
+US-2015-455378,Storage A,Office Supplies,Storage,430.15,5,0.0,30.05
+CA-2018-682291,Chairs A,Furniture,Chairs,295.01,8,0.2,46.52
+IN-2020-776943,Bookcases D,Furniture,Bookcases,338.81,10,0.2,69.55
+CA-2016-171948,Phones C,Technology,Phones,560.29,2,0.3,
+IN-2020-317308,Labels B,Office Supplies,Labels,629.5,5,0.4,87.64
+IN-2015-548768,Tables A,Furniture,Tables,402.74,4,0.4,16.58
+CA-2017-776419,Binders C,Office Supplies,Binders,791.96,2,0.2,140.81
+IN-2018-394463,Accessories C,Technology,Accessories,364.97,8,0.4,36.8
+CA-2021-404879,Labels B,,Labels,963.39,2,0.1,101.56
+IN-2017-421647,Tables B,Furniture,Tables,490.38,5,0.4,61.33
+CA-2017-655731,Tables C,Furniture,Tables,796.37,10,0.1,198.14
+IN-2021-554343,Phones D,Technology,Phones,100.69,6,0.1,24.58
+CA-2016-810359,Tables A,Furniture,Tables,273.63,9,0.4,11.98
+IN-2018-111342,Labels C,Office Supplies,Labels,752.05,6,0.2,53.84
+IN-2018-393179,Chairs C,Furniture,Chairs,818.14,5,0.4,78.17
+CA-2019-158843,Paper D,Technlogy,Paper,720.69,2,0.4,23.75
+US-2019-700870,Tables D,Furniture,Tables,810.02,6,0.4,74.5
+CA-2020-962627,Chairs C,Furniture,Chairs,717.95,6,0.4,121.89
+CA-2021-633963,Bookcases B,Furniture,Bookcases,317.19,5,0.2,42.05
+CA-2021-304998,Furnishings C,Furniture,Furnishings,70.49,1,0.2,12.57
+IN-2016-576393,Furnishings C,Furniture,Furnishings,498.71,7,0.2,87.46
+US-2020-304565,Paper A,Office Supplies,Paper,690.0,9,0.2,108.78
+US-2021-293183,Tables B,Furniture,Tables,553.92,2,0.3,
+IN-2020-537485,Accessories D,Technology,Accessories,,10,0.0,34.17
+CA-2020-480281,Furnishings C,Furniture,Furnishings,494.75,3,0.2,113.1
+CA-2018-563018,Labels A,Office Supplies,Labels,699.39,10,0.0,104.33
+IN-2018-424062,Storage A,Office Supplies,Storage,804.03,4,0.1,89.62
+CA-2021-302479,Tables A,Furniture,Tables,816.93,9,0.3,156.18
+US-2016-744060,Labels C,,Labels,955.1,8,0.1,73.53
+US-2018-914739,Chairs C,Furniture,Chairs,371.44,2,0.4,37.18
+US-2016-457995,Paper B,Office Supplies,Paper,268.21,3,0.0,44.72
+CA-2016-813102,Copiers B,Technology,Copiers,131.17,9,0.3,22.99
+IN-2020-263865,Furnishings B,,Furnishings,557.22,10,0.3,
+IN-2021-803116,Furnishings B,Furniture,Furnishings,828.97,2,0.2,129.64
+US-2021-524263,Phones C,Technology,Phones,,5,0.1,46.29
+US-2018-775410,Accessories C,Technology,Accessories,973.07,5,0.0,137.96
+IN-2016-853592,Accessories B,Technology,Accessories,622.38,5,0.4,22.24
+CA-2017-867574,Paper D,Office Supplies,Paper,992.83,2,0.3,119.51
+IN-2017-952266,Storage A,Office Supplies,Storage,360.23,5,0.3,58.48
+CA-2017-939477,Tables B,Furniture,Tables,494.87,7,0.4,60.37
+US-2021-972461,Phones D,Technology,Phones,158.31,6,0.3,25.85
+CA-2016-351271,Copiers A,Technology,Copiers,489.17,1,0.0,
+IN-2015-891937,Accessories D,,Accessories,279.5,10,0.1,15.05
+CA-2020-336623,Chairs A,Furniture,Chairs,408.48,3,0.3,70.84
+CA-2021-468406,Chairs A,,Chairs,260.58,9,0.3,45.54
+CA-2018-782789,Machines B,,Machines,406.99,2,0.4,
+US-2018-621101,Labels A,Office Supplies,Labels,474.15,4,0.3,40.71
+IN-2018-247742,Furnishings B,Furniture,Furnishings,654.38,9,0.4,94.65
+IN-2016-733073,Furnishings A,Furniture,Furnishings,859.85,5,0.1,226.03
+IN-2020-464542,Storage B,Office Supplies,Storage,645.73,8,0.1,37.08
+CA-2018-197390,Copiers D,Technology,Copiers,788.79,6,0.3,150.95
+US-2017-415932,Copiers B,Technology,Copiers,327.47,9,0.3,42.93
+CA-2020-558398,Copiers D,Technology,Copiers,181.95,4,0.0,28.88
+IN-2018-967853,Furnishings B,Furniture,Furnishings,280.79,5,0.1,46.15
+CA-2021-450649,Labels A,Office Supplies,Labels,825.67,4,0.0,117.24
+CA-2019-996303,Paper B,Office Supplies,Paper,36.76,3,0.1,5.22
+US-2019-952753,Bookcases D,Furniture,Bookcases,55.43,8,0.1,2.8
+CA-2018-519022,Phones B,Technology,Phones,935.16,5,0.2,
+US-2019-596301,Storage D,Office Supplies,Storage,837.96,4,0.4,132.0
+US-2016-991593,Phones A,Technology,Phones,439.78,6,0.0,93.89
+US-2017-548323,Copiers D,Technology,Copiers,83.18,5,0.4,4.11
+IN-2018-379640,Binders A,Office Supplies,Binders,396.46,6,0.0,29.86
+IN-2020-120556,Paper A,Office Supplies,Paper,685.4,7,0.3,66.74
+US-2020-211355,Chairs A,Furniture,Chairs,,8,0.1,170.73
+US-2018-110276,Labels D,Office Supplies,Labels,,6,0.0,8.02
+CA-2016-939525,Labels A,Office Supplies,Labels,358.07,6,0.3,24.72
+US-2016-490347,Storage D,Office Supplies,Storage,728.48,6,0.2,83.23
+CA-2017-206548,Binders A,Office Supplies,Binders,957.4,1,0.3,
+IN-2017-952207,Phones B,Technology,Phones,,5,0.4,39.72
+US-2017-979008,Furnishings D,Furniture,Furnishings,339.38,8,0.2,65.81
+IN-2019-980328,Labels D,Office Supplies,Labels,,10,0.3,62.59
+US-2017-870155,Storage B,Office Supplies,Storage,840.35,4,0.2,
+IN-2018-943633,Machines B,Technology,Machines,203.25,3,0.4,13.56
